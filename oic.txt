@@ -13,14 +13,14 @@ Oldgoogle: http://oldgoogle.neocities.org
 Oldyahoo: http://oldyahoo.neocities.org
 SearchGoggloPlexia: http://SearchGoggloPlexia.neocities.org
 Boogle: http://succulent64.ml/boogle (currently down)
-Foogle: http://cleantalk.cf/Foogle
+Foogle: http://cleantalk.cf/Foogle (down and flagged as malware)
 
 Twitter/Myspace/Text Posting:
-Bwitter: http://bwitter.me
+Bwitter: http://bwitter.me (development halted, site down)
 Pwitter: http://pwitter.tk (abandoned/down)
 Spacehey: http://spacehey.com
-Affc: http://thefuckbook.ml/affc (down for maintainence)
-ROL: http://cleantalk.cf/rant
+Affc: http://thefuckbook.ml/affc (down forever)
+ROL: http://cleantalk.cf/rant (webserver temporarily down)
 Peniznet: http://peniz.cf (down for v3)
 Old reddit(old ok): http://old.reddit.com
 
@@ -30,13 +30,14 @@ BitView: http://bitview.net
 FulpTube(RIP): http://fulptube.rocks (shut down)
 MePipeLine: http://mepipeline.yooco.org
 SuTub: http://sutub.com (down)
-NoobTube: http://succulent64.ml/noobtube (private beta rn)
+NoobTube: http://succulent64.ml/noobtube (development stopped)
 Tracle: http://tracle.tv
 SubRocks: http://subrock.rocks
 
 Misc:
-TheFuckBook: http://thefuckbook.ml
+TheFuckBook: http://thefuckbook.ml (down forever)
 Escargot: http://escargot.chat
 
 List compiled by Ian Hiew(maybeimawok#6686) on 3 August 2021.
+Updated on 28 October 2021.
 Feel free to submit pull requests or dm-ing me on Discord to add a site to the list.
