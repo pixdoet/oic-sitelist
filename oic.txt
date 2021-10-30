@@ -16,7 +16,7 @@ Boogle: http://succulent64.ml/boogle (currently down)
 Foogle: http://cleantalk.cf/Foogle (down and flagged as malware)
 
 Twitter/Myspace/Text Posting:
-Bwitter: http://bwitter.me (development halted, site down)
+Bwitter: http://bwitter.me 
 Pwitter: http://pwitter.tk (abandoned/down)
 Spacehey: http://spacehey.com
 Affc: http://thefuckbook.ml/affc (down forever)
