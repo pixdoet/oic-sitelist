@@ -12,11 +12,10 @@ Search:
 Oldgoogle: http://oldgoogle.neocities.org
 Oldyahoo: http://oldyahoo.neocities.org
 SearchGoggloPlexia: http://SearchGoggloPlexia.neocities.org
-Boogle: http://succulent64.ml/boogle (currently down)
 Foogle: http://cleantalk.cf/Foogle (down and flagged as malware)
 
 Twitter/Myspace/Text Posting:
-Bwitter: http://bwitter.me 
+Bwitter: http://bwitter.me (DB erased)
 Pwitter: http://pwitter.tk (abandoned/down)
 Spacehey: http://spacehey.com
 Affc: http://thefuckbook.ml/affc (down forever)
@@ -31,7 +30,8 @@ BitView: http://bitview.net
 FulpTube(RIP): http://fulptube.rocks (shut down)
 MePipeLine: http://mepipeline.yooco.org
 SuTub: http://sutub.com (down)
-NoobTube: http://succulent64.ml/noobtube (development stopped)
+NoobTube: http://succulent64.ml/noobtube (shut down)
+JarkTube: http://jark.succulent64.ml
 Tracle: http://tracle.tv
 SubRocks: http://subrock.rocks
 
