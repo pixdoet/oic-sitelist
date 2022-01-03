@@ -17,11 +17,11 @@ Foogle: http://cleantalk.cf/Foogle (down and flagged as malware)
 
 Twitter/Myspace/Text Posting:
 Bwitter: http://bwitter.me 
-Pwitter: http://pwitter.tk (abandoned/down)
+Pwitter: http://pwitter.tk (down)
 Spacehey: http://spacehey.com
 Affc: http://thefuckbook.ml/affc (down forever)
-ROL: http://cleantalk.cf/rant (webserver temporarily down)
-Peniznet: http://peniz.cf (down for v3)
+ROL: http://cleantalk.cf/rant (domain hijacked (ripbozo))
+Peniznet: http://peniz.cf (down)
 ClitorizWeb: http://clitoriz.cf
 Old reddit(old ok): http://old.reddit.com
 
@@ -32,13 +32,16 @@ FulpTube(RIP): http://fulptube.rocks (shut down)
 MePipeLine: http://mepipeline.yooco.org
 SuTub: http://sutub.com (down)
 NoobTube: http://succulent64.ml/noobtube (development stopped)
+JarkTube: http://jarktube.succulent64.ml/ (in development)
 Tracle: http://tracle.tv
-SubRocks: http://subrock.rocks
+SubRocks: http://subrock.rocks (shut down)
 
 Misc:
-TheFuckBook: http://thefuckbook.ml (down forever)
+TheFuckBook: http://thefuckbook.ml (server temporarily down)
 Escargot: http://escargot.chat
+Windows96: http://windows96.net
 
 List compiled by Ian Hiew(maybeimawok#6686) on 3 August 2021.
 Updated on 28 October 2021.
+Updated again on 3 January 2022.
 Feel free to submit pull requests or dm-ing me on Discord to add a site to the list.
