@@ -35,13 +35,15 @@ NoobTube: http://succulent64.ml/noobtube (development stopped)
 JarkTube: http://jarktube.succulent64.ml/ (in development)
 Tracle: http://tracle.tv
 SubRocks: http://subrock.rocks (shut down)
+John FulpTube: http://fulptube.org
 
 Misc:
-TheFuckBook: http://thefuckbook.ml (server temporarily down)
+TheFuckBook: http://thefuckbook.ml (project archived and website shut down)
 Escargot: http://escargot.chat
 Windows96: http://windows96.net
 
 List compiled by Ian Hiew(maybeimawok#6686) on 3 August 2021.
 Updated on 28 October 2021.
 Updated again on 3 January 2022.
+Updated again on 17 March 2022.
 Feel free to submit pull requests or dm-ing me on Discord to add a site to the list.
