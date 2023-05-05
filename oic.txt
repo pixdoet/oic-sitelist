@@ -26,21 +26,23 @@ ClitorizWeb: http://clitoriz.cf
 Old reddit(old ok): http://old.reddit.com
 
 Videos:
-VidLii: http://vidlii.com
+VidBit: http://vidbit.co
 BitView: http://bitview.net
 FulpTube(RIP): http://fulptube.rocks (shut down)
-MePipeLine: http://mepipeline.yooco.org
+YoreTude: https://www.yoretude.com/
 SuTub: http://sutub.com (down)
 NoobTube: http://succulent64.ml/noobtube (development stopped)
 JarkTube: http://jarktube.succulent64.ml/ (in development)
 Tracle: http://tracle.tv
 SubRocks: http://subrock.rocks (shut down)
-John FulpTube: http://fulptube.org
+John FulpTube: http://fulptube.org (shut down)
 
 Misc:
 TheFuckBook: http://thefuckbook.ml (project archived and website shut down)
 Escargot: http://escargot.chat
 Windows96: http://windows96.net
+Windows93: http://windows93.net
+Neocities: http://neocities.org
 
 List compiled by Ian Hiew(maybeimawok#6686) on 3 August 2021.
 Updated on 28 October 2021.
